@@ -1,5 +1,13 @@
-<h1>DynamoDB connection test</h1>
+<h1>Connection testing</h1>
 
+<h3>Configuration</h3>
+Set properties accordingly to your testing needs.
+```
+test.dynamodb=false
+test.webclient=true
+```
+
+<h3>Usage</h3>
 Copy jar to pod:
 
 ```
